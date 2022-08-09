@@ -38,7 +38,7 @@ body {
 .mins {
     position: absolute;
     top: 50%;
-    left: 50%;
+    left: 50.5%;
     height: 9rem;
     width: .4rem;
     border-radius: 20px;
@@ -50,8 +50,8 @@ body {
 .hours {
     position: absolute;
     top: 50%;
-    left: 50%;
-    height: 6rem;
+    left: 50.5%;
+    height: 5rem;
     width: .5rem;
     border-radius: 30px;
     background-color: mediumblue;
