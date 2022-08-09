@@ -10,7 +10,7 @@ function tiktak() {
 
     sec.style.transform = `rotate(${180 + (second * 6)}deg)`;
     min.style.transform = `rotate(${180 + (minute * 6)}deg)`;
-    time.style.transform = `rotate(${180 + (minute * 30)}deg)`;
+    time.style.transform = `rotate(${180 + (hour * 30)}deg)`;
 
     console.log({ second, minute, hour });
 }
