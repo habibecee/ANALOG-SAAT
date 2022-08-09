@@ -6,4 +6,4 @@ Projede JS kullanılarak analog saat yapımı denenmiştir.  </p> </br> </br>
 
 <h3>  GÖRÜNÜM </h3> </br>
 
-![](analogsaat-screen.gif)
+![](analogsaat-screen.gif) 
